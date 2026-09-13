@@ -1,0 +1,30 @@
+CAMPUS UPM - ESTRUCTURA FINAL
+
+index.html
+  ├─ fisiologia-ejercicio.html
+  │    ├─ fisiologia-temas-1-6.html
+  │    ├─ fisiologia-temas-7-12.html
+  │    └─ fisiologia-global.html
+  │
+  ├─ Actividad-Fisica-y-Salud.html
+  │    ├─ fisiologia-salud-test.html
+  │    └─ actividad-salud-test.html
+  │
+  └─ ingles.html
+
+Fisiología del Ejercicio:
+- Banco completo conservado: 691 preguntas.
+- Organizado en Temas 1-6 y Temas 7-12.
+- Dentro de cada grupo: selección por tema y bloques consecutivos de 20.
+- Modo estudio/examen, explicaciones, favoritas, fallos y progreso.
+
+Actividad Física y Salud:
+- Banco único de 120 preguntas.
+- 4 temas, 30 preguntas por tema.
+- 6 bloques de 20.
+- Modo estudio/examen, favoritas, fallos y buscador.
+
+Para GitHub Pages:
+Subir TODOS estos archivos juntos a la raíz del repositorio UPM.
+
+Fisiología del Ejercicio también incluye un Test Global con las 691 preguntas.
