@@ -1,0 +1,12 @@
+CAMPUS UPM — ACTUALIZACIÓN FISIOLOGÍA PARCIAL 1
+
+Sube los archivos de esta carpeta a la RAÍZ de tu repositorio UPM en GitHub.
+El enlace del Campus > Fisiología del Ejercicio > Temas 1–6 abre el test nuevo de 265 preguntas.
+
+ARCHIVOS CAMBIADOS:
+- fisiologia-temas-1-6.html: sustituido por las 265 preguntas exactas del nuevo PDF, seguidas.
+- fisiologia-ejercicio.html: tarjeta del Parcial 1 actualizada y enlazada.
+- ingles.html: creado como copia del inglés avanzado que ya había en el ZIP, para reparar el enlace del Campus.
+
+Se conservan el resto de páginas y el test global antiguo sin modificarlos.
+Las respuestas del test se guardan en el navegador mediante localStorage.
